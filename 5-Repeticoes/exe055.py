@@ -3,8 +3,6 @@ Faça um programa que leia o peso
 de cinco pessoas. No final, mostre qual 
 foi o maior e o menor peso lidos.
 """
-from tokenize import PseudoExtras
-
 
 maior = 0
 menor = 0
