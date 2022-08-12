@@ -12,6 +12,7 @@ def gerarlayout(tit: str):
 
 
 def calculararea(lar: float = 0, alt: float = 0):
+
     area = lar * alt
     print(f"A área de um terreno {lar:.2f}x{alt:.2f} é de {area:.2f}m².")
 
